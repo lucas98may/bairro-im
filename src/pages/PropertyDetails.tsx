@@ -1,8 +1,7 @@
-
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useToast } from "@/hooks/use-toast";
-import { Building2, MapPin, BedDouble, Bath, SquareFeet, Clock, Share2, Heart } from 'lucide-react';
+import { Building2, MapPin, BedDouble, Bath, Square, Clock, Share2, Heart } from 'lucide-react';
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Card, CardContent } from "@/components/ui/card";

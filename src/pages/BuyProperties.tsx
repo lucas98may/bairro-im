@@ -31,7 +31,7 @@ const BuyProperties = () => {
     <div className="flex flex-col min-h-screen">
       <Header />
       
-      <section className="bg-realestate-secondary text-white py-12">
+      <section className="bg-realestate-primary text-white py-12">
         <div className="container mx-auto px-4">
           <h1 className="text-3xl font-bold mb-4">Imóveis para Comprar</h1>
           <p className="text-lg mb-8">Encontre o imóvel ideal para comprar no Bairro Alegre</p>
